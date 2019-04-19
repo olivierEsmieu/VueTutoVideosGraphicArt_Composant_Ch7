@@ -1,0 +1,11 @@
+{
+  "name": "video-7",
+  "version": "1.0.0",
+  "description": "composant et  input, v-model",
+  "keywords": [],
+  "homepage": "https://semantic-ui-vue.github.io",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "2.5.16"
+  }
+}
